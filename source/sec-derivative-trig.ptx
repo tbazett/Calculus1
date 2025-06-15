@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-trig" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivative of Trig Functions</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Derive Derivative Rules for sums, constant multiples, and powers</li>
+      <li>Derivative of Trig functions</li>
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Derivative of Trig Functions</title>
+    <p>
+    In this video we don't derive the derivative of <m>\sin(x)</m> and <m>\cos(x)</m>, but we assert their derivatives and analyze their graphs to test the reasonableness of these assertion. Finally, we show how to use these two to compute the derivative of other trig functions. </p>
+    
+    <video youtube="2_n4i7H_4kI" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    In this video we didn't formally derive the derivative of any of <m>\sin(x)</m> or <m>\cos(x)</m>. If you want to see that, check out <url href="https://www.youtube.com/watch?v=E_Cvb53vXI0"> this video by Dr. Grazia-Saz </url>.    Dr. Grazia-Saz was a former UVic colleague who tragically passed away shortly after winning one of Canada's top math teaching awards - his YouTube channel has many calculus videos and is a gem. 
+    </p>
+
+    </paragraphs>
+  </fact>
+
+ 
+ 
+
+
+
+  
+</section>

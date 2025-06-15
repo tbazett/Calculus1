@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-chain" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chain Rule</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Compute the derivative of a composition of functions</li>
+      <li>Apply Chain Rule with Leibniz notation to applied problems with various variable names </li>
+       <li>Optional: Interpret the Chain Rule graphically </li>
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Chain Rule Introduction</title>
+    <p>
+     In this video we review composition of functions and then use the Chain Rule to compute derivatives of compositions.</p>
+    
+    <video youtube="CU615YDtImg" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    Suppose you had a double composition like <m>f(g(h(x)))</m>. Apply the Chain Rule twice in a row to figure out the derivative of this. 
+    </p>
+
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Chain Rule Leibniz Notation</title>
+    <p>It is sometimes more convenient - particularly in applied problems with lots of variables coming from, say, physics - to use Leibniz notation to express the derivative of a composition. Let's see the notation and do an applied example. 
+    </p>
+    
+    <video youtube="WeFq4Up55N0" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    When I did the applied example, did the top and bottom dv just cancel? 
+    </p>
+
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Optional: Chain Rule Graphically</title>
+    <p>This video shows one way to interpret what is happening with the Chain Rule graphically </p>
+    
+    <video youtube="qIvkbslb5Gs" />
+ 
+   
+  </fact>
+
+ 
+ 
+
+
+
+  
+</section>

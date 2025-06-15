@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-continuity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Continuity</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+  
+    <ol>
+      <li>Define what it means for a function to be <u>continuous</u> and classify different types of <u>discontinuities</u>.</li>
+      <li> Decide where a piecewise defined function is continuous.</li>
+      <li>State the <u>Intermediate Value Theorem</u> and describe the intuition behind.</li>
+    </ol>
+  </paragraphs>
+
+ 
+
+  <paragraphs>
+    <!-- Extract iframe title: "2.5 Part 1: Continuous Functions" becomes "Video 2: Continuous Functions" -->
+    <title>Video 1: Continuous Functions and Four Types of Discontinuities</title>
+    <p>
+      This video introduces the intuitive notion of continuity, the precise definition, and describes four types of discontinuities.
+    </p>
+    <video youtube="AT5s4izKXMY" />
+  </paragraphs>
+
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      Think about all the common functions you can name, such as <m>tan(x)</m>. Where are each of them continuous?
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+   <title>Video 2: Continuity of Piecewise Functions</title>
+    <p>
+      When our functions are piecewise defined, we need to be particularly careful about checking continuity at the point where the definition changes.  </p>
+    <video youtube="7GdATlKo1rU" />
+  </paragraphs>
+
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p> Suppose the definition of the piecewise defined function changes at a values <m>x=a</m>. Is <m>a</m> the <em>only</em> spot you need to check for continuity, or do you need to still check the rest?
+    </p>
+  </paragraphs>
+
+
+
+  <paragraphs>
+    <!-- Extract iframe title: "2.5 Part II: Intermediate Value Theorem" becomes "Video 3: Intermediate Value Theorem" -->
+    <title>Video 3: Intermediate Value Theorem</title>
+    <p>
+      This video is all about the Intermediate Value Theorem.
+    </p>
+    <video youtube="7AlwtQonFd0" />
+  </paragraphs>
+
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <ol>
+      <li>
+        We use IVT (without thinking about it) all the time in our lives, just like with the claim “you were once 3 feet tall.” What is another everyday statement you might say to someone who doesn't know calculus but is implicitly using IVT?
+      </li>
+      <li>
+        We didn't prove IVT – and we won't in class either. The theorem depends on a key property of the real numbers called “completeness” which in essence is about the idea that the real numbers don't have any holes. We'll talk about this a lot if you take Math 236 Real Analysis in the future!
+      </li>
+    </ol>
+  </paragraphs>
+
+
+  
+</section>

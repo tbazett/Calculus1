@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-application-optimization" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Optimization</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Solve applied optimization problems.
+</li>
+   
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Optimization - Volume of a Box</title>
+    <p>
+     In this video we go through the entire process for of optimization in a specific problem involving volumes. Also the baby in this video is now 8 years old!  </p>
+
+    <video youtube="L-xPozFWp3k" />
+
+  </fact>
+
+  
+
+   <fact>
+    <title>Optimization - Wire Example</title>
+    <p>
+    This video repeats the process, but this time for a different type of problem, folding a wire.
+    </p>
+
+    <video youtube="Fs-4t0-syZc" />
+ 
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    Now that we've seen two videos, what are the main steps that you will do for every one of these optiminzation problems?</p>
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Optimization - Surface Area of a Box</title>
+    <p>
+     This is a harder version of the 1st box example, but with an additional complication. 
+    </p>
+
+    <video youtube="KO_abfAFMgo" />
+ 
+
+  </fact>
+
+  
+</section>

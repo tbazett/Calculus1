@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-mean" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mean Value Theorem</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>State the Mean Value Theorem, including the conditions.</li>
+      <li>
+ Construct examples demonstrating the necessity of the conditions in the Mean Value Theorem.</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Mean Value Theorem</title>
+    <p>In this video we introduce one of the most important theorems in calculus: the Mean Value Theorem. This theorem connects a local property (the derivative) to a global property (the slope over an interval). We will see examples showing the necessity of the assumptions in this theorem.
+    </p>
+    <video youtube="dY5p2EWdtk8" />
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+     Can you come up with a counterexample to the theorem in the case where f(x) was continuous only on the open interval (a,b) and not the closed interval [a,b]?</p>
+    </paragraphs>
+  </fact>
+
+  
+
+
+  
+</section>

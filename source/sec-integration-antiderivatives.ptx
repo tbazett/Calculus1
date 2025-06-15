@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-integration-antiderivatives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Antiderivatives</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Define the concept of an anti-derivative and identify anti-derivatives for several basic functions.</li>
+    <li>Find the anti-antiderivative satisfying an Initial Value Problem</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Antiderivatives</title>
+    <p>
+    We've seen many differentiation rules like the power rule. But can we go in reverse? Given a function like f(x), can we find a function whose derivative is f(x)? In this first video we focus specifically on undoing the power rule and the distinction between an anti-derivative and the general anti-derivative. </p>
+
+    <video youtube="pc9kyg57Fyg" />
+
+  </fact>
+
+  
+
+   <fact>
+    <title>Initial Value Problems</title>
+    <p>
+     We expand the types of functions we take anti-derivatives and solve "Initial Value Problems". 
+      </p>
+
+    <video youtube="zY_dBpKGBwA/" />
+ 
+   
+  </fact>
+
+  
+
+  
+</section>

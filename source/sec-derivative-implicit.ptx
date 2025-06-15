@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-implicit" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Implicit Differentiation</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Compute derivatives when the variables are expressed implicitly via an equation</li>
+      <li>Compute the derivative of inverse trigonometric functions</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Implicit Differentiation</title>
+    <p>
+     So far we've taken derivative of functions like <m>f(x)=x^2</m>. But what about computing <m>dy/dx</m> when given an equation like <m>x^2+y^2=1</m>? To do this we will use implicit differentiation.</p>
+
+    <video youtube="yQGl7XZ4HmU" />
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    A circle visually looks nice and round and smooth. Can we compute the derivative at every single point on the circle in that case?</p>
+    </paragraphs>
+  </fact>
+
+  
+
+   <fact>
+    <title>Derivatives of Inverse Trig functions</title>
+    <p>
+     Inverse trigonometry functions satisfy equations such as <m>\tan(\arctan(x))=x</m>. We can thus use implicit differentiation to find their derivatives.
+    </p>
+
+    <video youtube="Gcj0e9j5g1E" />
+ 
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    Note carefully that we have to be very careful about domains of inverse trig functions, a detail not yet explored in the above video but we will explore this more in class. Can you predict what the issue is going to be?</p>
+    </paragraphs>
+  </fact>
+
+  
+</section>

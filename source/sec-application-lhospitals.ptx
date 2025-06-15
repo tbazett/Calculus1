@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-application-lhospital" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>L'Hospital's Rule</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Use L'Hospital's Rule to compute the limit of functions in the indeterminate forms <m>0/0</m> and <m>\infty/\infty</m>.</li>
+    <li>Use L'Hospital's Rule to compute the limit of functions in the indeterminate forms in exponential form like <m>0^0</m> and <m>\infty^0</m>.</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>L'Hospital's Rule</title>
+    <p>
+    We've previously spent a lot of effort studying limits of the form 0/0 via algebraic tricks like factoring or common denominators. Now we learn how to leverage our knowledge of derivatives and the incredibly powerful L'Hôpital's Rule. </p>
+
+    <video youtube="Bt-Q3NR6LD4" />
+
+  </fact>
+
+  
+
+   <fact>
+    <title>L'Hospital's Rule for other indeterminate forms</title>
+    <p>
+    We can't directly apply L'Hôpital's Rule to indeterminate forms like <m>1^{\infty}</m>. But that's what logarithms are for!
+    </p>
+
+    <video youtube="5Gr3JPpWbp8" />
+ 
+   
+  </fact>
+
+
+  
+</section>

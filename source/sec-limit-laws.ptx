@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-limit-laws" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Limit Laws</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+  
+    <ol>
+      <li>State the various Limit Laws</li>
+      <li>Apply Limit Laws, when appropriate, to quickly compute limits (ex: rational functions when denominator is nonzero)</li>
+      <li>Apply the Squeeze Theorem (aka Sandwich Theorem) to compute limits</li>
+      <li>Apply algebraic techniques to compute limits</li>
+    </ol>
+  </paragraphs>
+
+
+
+  <paragraphs>
+    <!-- Original iframe had title="2.2 Part I: Limit Laws". Remove the "2.2 " prefix and prepend "Video 1:" -->
+    <title>Video 1:  Limit Laws</title>
+    <p>This video introduces several Limit Laws, their intuition, and why we have to carefully check the conditions of the laws.</p>
+    <video youtube="qkp1RkANr84" />
+  </paragraphs>
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>The formulas alone in the Limit Laws in the video aren't ALWAYS true. What are the important condition(s) to check for them to apply?</p>
+  </paragraphs>
+
+  <paragraphs>
+    <!-- Original iframe had title="2.2 Part II: Limits of Rational Functions". Remove the "2.2 " prefix and prepend "Video 2:" -->
+    <title>Video 2: Limits of Rational Functions</title>
+    <p>This video applies the Limit Laws of video 1 to deduce how to quickly compute the limit of a rational function when the denominator is nonzero.</p>
+    <video youtube="ZEaKBanUbLk" />
+  </paragraphs>
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>For a rational function, what is the key thing to check before we just "plug the value in" and say that <m>\displaystyle\lim_{x\to a}f(x)=f(a)</m>?</p>
+  </paragraphs>
+
+  <paragraphs>
+    <!-- Original iframe had title="2.2 Part III: Sandwich aka Squeeze Theorem". Remove the "2.2 " prefix and prepend "Video 3:" -->
+    <title>Video 3: Sandwich aka Squeeze Theorem</title>
+    <p>This video introduces the Sandwich Theorem aka the Squeeze Theorem.</p>
+    <video youtube="k8KYON5YnM4" />
+  </paragraphs>
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>Why does the squeeze theorem not apply to the first limit <m>\displaystyle\lim_{x\to 0^+}\sin\left(\frac{1}{x}\right)</m> which we concluded Does Not Exist (DNE)?</p>
+  </paragraphs>
+
+    <paragraphs>
+    <!-- Extract iframe title: "2.2 Part V: A trickier example of computing limits algebraically". Remove section numbers and enumeration -->
+    <title>Video 4: Four Algebraic Tricks for computing Limits</title>
+    <p>
+      This video combines multiple algebraic tricks into one. In class we covered the four basic tricks, and if you need a refresher first then watch this one first: 2.2 Part IV: Four algebraic techniques to compute limits
+    </p>
+    <video youtube="64Yf_3nQ2CE" />
+  </paragraphs>
+
+
+  <paragraphs>
+    <!-- Extract iframe title: "2.2 Part V: A trickier example of computing limits algebraically". Remove section numbers and enumeration -->
+    <title>Video 5: A trickier example of computing limits algebraically</title>
+    <p>
+      This video combines multiple algebraic tricks into one. 
+    </p>
+    <video youtube="yoxq3slY7VE" />
+  </paragraphs>
+
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      When can you just "plug in" the value you are taking the limit towards, and when do you have to apply an algebraic trick? What features in the expression would you use to decide which algebraic trick might apply?
+    </p>
+  </paragraphs>
+  
+</section>

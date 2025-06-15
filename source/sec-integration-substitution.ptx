@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-integration-substitution" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Integration by Substitution</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      
+    <li>Use substitutions to evaluate indefinite integrals</li>
+    <li>Use the method of back substitution to solve tricker integrands</li>
+    <li>Use substitutions to evaluate definite integrals</li>
+   
+  
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>U-substitution</title>
+    <p>
+    Finding antiderivatives "undoes" differentiation. So what happens when you undo Chain Rule, which was a rule about differentiation? You get u-substitution, and it will unlock way more integrands for us than we could do before.  </p>
+
+    <video youtube="iw1UqE0ZhPM" />
+  </fact>
+
+  
+
+   <fact>
+    <title>U-substitution second example</title>
+    <p>
+    Let's see another example. </p>
+
+    <video youtube="Dm14He3xDT8" />
+ 
+   
+  </fact>
+
+   <fact>
+    <title>Back Substitution</title>
+    <p>
+    Sometimes our integrands are a little trickier, and the u-substitution doesn't clean up everything immediately. We can use back susbtitution to clean up the rest of the integrand. 
+    <alert> Typo: 5:52 should be (u-2)^2+4 as opposed to (u-2)^2-4. Challenge: Work out the rest of the problem based on that change!</alert>
+    
+    </p>
+
+    <video youtube="CQcLz8hUPAg" />
+ 
+   
+  </fact>
+
+  
+   <fact>
+    <title>U-substitution for Definite Integrals</title>
+    <p>
+    If you have a definite integral, you can still use u-substitution but you need to be careful about handling the limits of integration.
+    </p>
+
+    <video youtube="xVNv8W2bB2E" />
+ 
+   
+  </fact>
+  
+</section>

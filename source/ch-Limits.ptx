@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Limits</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-velocity-problem.ptx" />
+  <xi:include href="sec-intro-limits.ptx" />
+  <xi:include href="sec-limit-laws.ptx" />
+  <xi:include href="sec-continuity.ptx" />
+  <xi:include href="sec-infinite-limits.ptx" />
+
+</chapter>

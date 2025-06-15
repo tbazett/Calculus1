@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Applications" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Applications of Derivatives</title>
+
+  <introduction>
+    <p> In this chapter we will explore applications of derivatives in various contexts. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-integration-antiderivatives.ptx" />
+  <xi:include href="sec-integration-definite.ptx" />
+  <xi:include href="sec-integration-fundamental.ptx" />
+  <xi:include href="sec-integration-substitution.ptx" />
+    <xi:include href="sec-integration-average.ptx" />
+
+
+  
+
+</chapter>

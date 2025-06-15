@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-application-extreme" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Extreme Values</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Given a graph over a domain, identify relative and absolute extrema
+</li>
+      <li>Compute the Critical Points of a function</li>
+      <li>Determine the concavity of a function at a point</li>
+      <li>Apply the 2nd derivative test to determine whether a critical point is a relative max or min</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Absolute vs Relative Extrema</title>
+    <p>
+     In this video we come up with definitions for the notions of absolute and relative maximums and minimums and visualize this with graphs of functions. </p>
+
+    <video youtube="mDDlJsKaBWU" />
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    AWhat kinds of polynomials have an absolute max or min on the real numbers? What about on a closed interval like [0,1]? We'll answer that latter question more clearly during class.</p>
+    </paragraphs>
+  </fact>
+
+  
+
+   <fact>
+    <title>Finding Relative Extrema</title>
+    <p>
+     Now we turn to the question of how to find a maximum or minimum. We will define a concept called the critical point which provides a necessary condition to be a max or min. 
+    </p>
+
+    <video youtube="xMU30EoSQV4/" />
+ 
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    If f(x) is not defined at x = c, could c be a critical number?</p>
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Concavity and the 2nd Derivative Test</title>
+    <p>
+      The concavity of a function can be determined using the second derivative test. If the second derivative is positive at a critical point, the function is concave up and the critical point is a relative minimum. If the second derivative is negative, the function is concave down and the critical point is a relative maximum.We have previously seen how the first derivative told us intervals where a function was increasing and decreasing. Now we look to what the second derivative can tell us, a property we refer to as concavity. 
+    </p>
+
+    <video youtube="XxGNETACb9k/" />
+ 
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    Both the 1st and 2nd derivative provide us information about whether a critical point is a max or min. Which method do you prefer? Do you always prefer it, or does it depend?</p>
+    </paragraphs>
+  </fact>
+
+  
+</section>

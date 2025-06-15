@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-About" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>About This Video "Book"</title>
+
+
+ 
+
+  <p> This video "book" is a supplemental resource to the class Math 100 at UVic. The video modules are intended to be primarily watched <em>before</em> each class. The videos are introductions to each topic, and are meant to help you feel ready and prepared for class. The videos do not include many of the details and more complicated examples that we will see in class, which is why they are meant as a supplement but not a replacement for class.  </p>
+ <paragraphs>
+<title>How to engage with these video modules</title>
+<p>You should be an <em>active participant</em> when watching videos. Think, reflect, pause, ask yourself many questions, and try to answer them. The Learning Objectives at the top of each module tell you what the big points are to be covered, so you can always check before watching the video whether you think you can already do that skill, and then double check after watching the video that you now can. The Post-Video Reflection questions are there to provide reflection prompts so you do some review after watching the video. The answers are in the videos. The ultimate judge should be how you feel in class. If you are in particular regularly feeling just a bit lost or a bit behind in class, then engaging with these videos preclass regularly can make a big difference in helping the class time feel accessible and productive.    </p>
+</paragraphs>
+
+ 
+<paragraphs>
+<title>Caveats</title>
+<p>These videos were originated in a calculus class taught in a flipped style at my (Trefor's) prior institution for a similar but slightly different flavour of calculus class.  I will try to note notational differences if and when they occur, but you should place the conventions from class over that of the videos.  </p>
+</paragraphs>
+
+
+<paragraphs>
+<title>About YouTube</title>
+<p> Videos in this book come from the <url href="https://www.youtube.com/@drtreforuvic">@DrTreforUVic </url> YouTube channel and are not monetized and contain no calls-to-action (ex: "Like and Subscribe"). However, YouTube will unfortunately nevertheless play ads on unmonetized videos occasionally. I additionally and separately have a larger public YouTube channel that contains most of the same videos, but those videos often will have calls-to-action and are monetized. It is thus recomended that any UVic student exclusively use the version of the videos linked in this video textbook.</p>
+
+</paragraphs>
+
+
+
+
+<!--
+  <xi:include href="sec-how-to-use.ptx" />-->
+
+</chapter>

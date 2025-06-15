@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-point" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivative at a point</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Graphically sketch the intuition behind the derivative.</li>
+      <li>State the formal definition of the derivative.</li>
+      <li>Compute the derivative of a function via the definition of the derivative.</li>
+    </ol>
+  </paragraphs>
+
+  
+<fact>
+    <title>Definition of the Derivative</title>
+    <p>
+     In this video we define the derivative at a point, translating a geometric problem about secant lines approaching a tangent line into a precise limit definition of the derivative.</p>
+    <video youtube="AVZ-9BaDCHM" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    Try drawing your own sketch illustrating the definition of the derivative of a point.
+    </p>
+
+    </paragraphs>
+  </fact>
+
+
+   
+
+  <fact>
+    <title>Derivative of a function </title>
+    <p>
+      In this video we show how to extend from thinking about the derivative <em>at a point</em> to the derivative <em>of a function</em>. We apply this to the specific function <m>f(x)=\frac{1}{x}</m>. 
+    </p>
+    
+    <video youtube="XGHLwiYtSXM" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+     At the end we just “plugged in” h = 0 when evaluating the limit. Why didn’t we do that earlier?
+    </p>
+
+    </paragraphs>
+  </fact>
+
+
+  <fact>
+    <title>Derivative of a Constant and x^2 </title>
+    <p>
+    Let's start applying the definition of the derivative to some of the simplest functions, like a constant function and the function <m>f(x) = x^2</m>. </p>
+    
+    <video youtube="xj-JAK9AOGE" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    Try doing the same thing but for <m>f(x) = x^3</m>. 
+    </p>
+
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Example: A trickier example </title>
+    <p>
+    Let's do one more example just for good measure. 
+    </p>
+    
+    <video youtube="qCsM6NkFs6M" />
+ 
+  </fact>
+ 
+
+
+
+  
+</section>

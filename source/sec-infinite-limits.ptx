@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-infinite-limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Infinite Limits</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+    <li> Decide if a function has a vertical asymptote</li>
+    <li> Describe what it means for a limit to be infinite</li>
+      <li>Compute limits at infinity for various transcendental functions (ex. <m>e^x</m> and <m>\arctan(x)</m>).</li>
+      <li>Compute limits at infinity for rational functions.</li>
+    </ol>
+  </paragraphs>
+
+
+
+
+    <fact>
+    <title>Infinite Limits</title>
+    <p>
+      In this video we discuss limits at infinity for the function <m>\arctan(x)</m> and <m>e^x</m>. We are both learning about limits at infinity as well as building our familiarity with these two important functions in calculus.
+    </p>
+    <video youtube="KaYO04ODDtY" />
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      Describe in words what it means for a limit to be infinite. 
+    </p>
+  </paragraphs>
+  </fact>
+
+  <fact> 
+    <title>Limits at Infinity</title>
+    <p>
+      In this video we discuss limits at infinity for the function <m>\arctan(x)</m> and <m>e^x</m>. We are both learning about limits at infinity as well as building our familiarity with these two important functions in calculus.
+    </p>
+    <video youtube="76hiOSWASMg" />
+
+
+  <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      In this video we talked about expressions like <m>\displaystyle\lim_{x\to\infty}f(x)=L</m> 
+      and in contrast, in class you might have seen <m>\displaystyle\lim_{x\to a}f(x)=\infty</m>. 
+      What is the difference between these two concepts?
+    </p>
+  </paragraphs>
+  </fact>
+
+ 
+   <fact xml:id="sec-infinite-limits-vid3">
+    <title>Limits at Infinity for Rational Functions</title>
+    <p>
+     For many functions f(x) such as the rational function we see in this video, we can use some algebra to determine the value of the limit at infinity.
+    </p>
+    <video youtube="qFilizMlgwc" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+      For a rational function, what is the key thing to check before we just "plug the value in" and say that <m>\displaystyle\lim_{x\to a}f(x)=f(a)</m>?
+    </p>
+
+    </paragraphs>
+  </fact>
+
+  
+</section>

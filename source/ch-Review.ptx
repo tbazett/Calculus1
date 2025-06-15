@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Review" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Precalculus Review</title>
+
+  <introduction>
+    <p> Precalculus knowledge is essential for success in calculus. Our main review materials for precalculus is the  <url href="https://web.uvic.ca/~jvbutter/PreCalcReview/root-1-2-2.html">Precalculus Review Materials found here </url>, there are plenty of practice problems. Additionally, below are two specific videos on trigonometry and logarithms. You might like to watch the videos and then head to the precalculus review book to do a bunch of practice problems - or perhaps you want to skip the videos and go right for the practice problems.  </p>
+
+  <fact>
+    <title>Review of Trigonometry </title>
+    <p>In this video we review most of the trigonometry that will be used in calculus, including the unit circle definitions of sin(x) and cos(x), pythagorean formula, graphing trig functions, special triangles and computing special values of trig functions, and many of the important trig identities. I also include two things we won't use much in calculus but are perhaps nice to know in the background: the geometric interpretation of the other trig functions, and a derivation of the addition identity at the end of the video you can skip if you wish.</p>
+    
+    <video youtube="l1S9QvA3oAg" />
+ 
+   
+  </fact>
+
+<fact>
+    <title>Review of Logarithms </title>
+    <p>
+    In this video we review several properties of logarithms, in particular it's definition as the inverse function to exponentiation, we investigate the natural logarithm graphically, and finally derive several logarithm rules. </p>
+    
+    <video youtube="lAiXrLUCP00" />
+ 
+   
+  </fact>
+  </introduction>
+ 
+
+</chapter>

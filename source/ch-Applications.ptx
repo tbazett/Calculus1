@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Applications" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Applications of Derivatives</title>
+
+  <introduction>
+    <p> In this chapter we will explore applications of derivatives in various contexts. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-related-rates.ptx" />
+  <xi:include href="sec-application-linear.ptx" />
+  <xi:include href="sec-application-extreme.ptx" />
+  <xi:include href="sec-application-optimization.ptx" />
+  <xi:include href="sec-application-lhospitals.ptx" />
+
+
+  
+
+</chapter>

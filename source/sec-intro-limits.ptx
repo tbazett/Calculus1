@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-intro-limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Limits</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+  
+    <ol>
+      <li>Decide where a rational function exists</li>
+      <li>Graph a piece-wise defined function</li>
+      <li>Given a graph, estimate the limit of a function as the variable approachs a point (possibly only from the left or right)</li>
+      <li>Given a table of values, estimate the limit of a function as the variable approachs a point (possibly only from the left or right)</li>
+    </ol>
+  </paragraphs>
+
+  <paragraphs>
+    <!-- Original iframe had title="2.2 Part I: Limit Laws". Remove the "2.2 " prefix and prepend "Video 1:" -->
+    <title>Video 1:  Tale of Three Functions Part I</title>
+    <p>We look at three different functions that seem pretty similar, but are in fact slightly different.</p>
+    <video youtube="FpRDavSv6OM" />
+  </paragraphs>
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      What was the difference between the three functions of the video? In what ways are they similar? In what ways are they different?
+    </p>
+  </paragraphs>
+
+    <paragraphs>
+    <!-- Original iframe had title="2.2 Part I: Limit Laws". Remove the "2.2 " prefix and prepend "Video 1:" -->
+    <p>We numerically and graphically investigate what happens as we approach the interesting point. Through this, we define the notion of a limit.</p>
+    <title>Video 2:  Tale of Three Functions Part II</title>
+    <p>This video introduces the basic idea of Limits</p>
+    <video youtube="FpRDavSv6OM" />
+  </paragraphs>
+
+      <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      What is the big idea of a limit in your own words?
+    </p>
+  </paragraphs>
+
+  
+  
+</section>

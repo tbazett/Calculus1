@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-application-linear" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Linear Approximations</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Understand the concept of linear approximation</li>
+      <li>Apply linear approximation to estimate function values</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Linear Approximation</title>
+    <p>If we look at a function (in particular a nice differentiable one) nearby a point, the function can be approximated using the tangent line. In this video we will use our knowledge of derivatives to estimate the values of functions around a point.</p>
+     
+    <video youtube="KiSUrVTpAtg" />
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    Why did we choose x=1 as our point to approximate by? Would it have been reasonable to choose something else like x=1.3 or x=9?</p>
+    </paragraphs>
+  </fact>
+
+  
+
+  
+</section>

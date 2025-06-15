@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-rules" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivative Rules and Examples</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Derive Derivative Rules for sums, constant multiples, and powers</li>
+      <li>State and apply the Product Rule and Quotient Rule</li>
+   
+    </ol>
+  </paragraphs>
+
+  
+<fact>
+    <title>Derivitive Rules for Sums, Constant Multiples, and Powers</title>
+    <p>
+     In this video we'll derive our first derivative rules which we will use over and over again for sums, multiplying by a constant, and for <m>x^n</m>
+     </p>
+     <video youtube="PIIeB74ZHZE" />
+ 
+   
+    <paragraphs>
+    <title>Post-video reflection</title>
+
+  
+    <p>
+    What is the derivative of linear combination <m>af(x)+bg(x)</m> where <m>a,b</m> are constants and <m>f(x), g(x)</m> are functions?
+    </p>
+
+    </paragraphs>
+  </fact>
+
+  <fact>
+    <title>Product Rule and Quotient Rule</title>
+    <p>
+     Now we will state and apply formulas for the derivative of a product or a quotient. </p>
+     <video youtube="G-IZJZUrv20" />
+ 
+   
+  </fact>
+
+
+   
+    <!--
+  <fact>
+    <title>Derivative of Exponentials </title>
+    <p>
+    In this video we will state how to compute the derivative of the exponential function <m>e^x</m>. Note that I only illustrate this as reasonable graphically, which is not a proof! We'll provide a more precise definition of the exponential function and derive this in the future. 
+    </p>
+    
+    <video youtube="EoAFmDLUHCk" />
+ 
+   
+  </fact>
+-->
+
+
+ 
+ 
+
+
+
+  
+</section>

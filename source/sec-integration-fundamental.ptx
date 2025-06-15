@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-integration-fundamental" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Fundamental Theorem of Calculus</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>State the Fundamental Theorem of Calculus 1, and explain its core idea</li>
+      <li>State and apply the Fundamental Theorem of Calculus 2. </li>
+  
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Fundamental Theorem of Calculus I</title>
+    <p>
+    This video covers the Fundamental Theorem of Calculus I. It considers an accumulation function <m>\int_0^xf(t)dt</m>
+ and studies what the rate of change (with respect to x) of such a function is.   </p>
+
+    <video youtube="661x5jKdNnU" />
+  </fact>
+
+  
+
+   <fact>
+    <title>Fundamental Theorem of Calculus II</title>
+    <p>
+    This video covers the Fundamental Theorem of Calculus II, which relates the key idea of anti-derivatives that we have studied previously to integration. It turns out if you know an anti-derivative, then you can compute a definite integral. </p>
+
+    <video youtube="doJsL22zQKQ" />
+ 
+   
+  </fact>
+  
+</section>

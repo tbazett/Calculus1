@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-velocity-problem" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Video 1: The Velocity Problem</title>
+
+    <p>In this module, we're going to introduce one of the core motivating questions of calculus: How to find the slope of a tangent line? We'll see in particular that one reason why we might care about this problem is a natural question about what is the velocity at a moment in time. These videos will motivate the study of <em>limits</em> which we'll tackle first, then we will return to this same motivation question in the future to finally answer it fully with the notion of <em>derivatives</em></p>
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+  
+    <ol>
+      <li>Compute the Average Velocity over a time interval</li>
+      <li>Describe the difference between Average Velocity and Instantaneous Velocity</li>
+      <li> Sketch average velocity as slopes of secant lines</li>
+      <li>Visualize instantaneous velocity as a limiting concept</li>
+    </ol>
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Velocity Problem Numerically </title>
+    <p>If I know my location at two different times, what is my velocity? There are two different notions to consider: average velocity - over an interval - and instantaneous velocity - at a point. </p>
+    <video youtube="OXXJkNfwm1Q" />
+  </paragraphs>
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+      What is the difference between instantaneous velocity and average velocity over a time interval?
+    </p>
+  </paragraphs>
+
+    <paragraphs>
+    <!-- Original iframe had title="2.2 Part I: Limit Laws". Remove the "2.2 " prefix and prepend "Video 1:" -->
+    <p>We numerically and graphically investigate what happens as we approach the interesting point. Through this, we define the notion of a limit.</p>
+    <title>Video 2:  The Velocity Problem: Graphically</title>
+    <p>Given a distance vs time plot, the average velocity over an interval is the same as the slope of the secant line between those two points. But taking smaller and smaller intervals near a point, the slopes of these secant lines approach the instantaneous velocity. </p>
+    <video youtube="FpRDavSv6OM" />
+  </paragraphs>
+
+      <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    Draw a different curve than I drew, and sketch your own visual of the limit of secant lines approaching a tangent line at a specific point.
+    </p>
+  </paragraphs>
+
+  
+  
+</section>

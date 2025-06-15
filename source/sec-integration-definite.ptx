@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-integration-definite" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Definite Integrals</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Approximate areas under curves with rectangles</li>
+      <li>Express finite sums for approximating area in terms of summation notation. </li>
+      <li>Define the Definite Integral</li>
+      <li>Evaluate Definite Integrals from the definition</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Approximating Area with Rectangles</title>
+    <p>
+    In this video we approximate the area under a curve using a finite sum of rectangle approximations.  </p>
+
+    <video youtube="LhRzOs9vTJs" />
+
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    If all we cared about was an approximation, could we code this in the computer to get a better and better approximation?</p>
+    </paragraphs>
+  </fact>
+
+  
+
+   <fact>
+    <title>Summation Notation and the Definite Integral</title>
+    <p>
+    In this video we introduce summation notation and use it to define the Definite Integral as a Riemann Sum</p>
+
+    <video youtube="XKuggtwBl3Y" />
+ 
+   
+  </fact>
+
+  <fact>
+    <title>Evaluating the Definite Integral</title>
+    <p>
+     In this video we apply the definition of the definite integral to compute the value of the limit in a specific example. 
+    </p>
+
+    <video youtube="jQ8RnYb9qxM" />
+ 
+ 
+  </fact>
+
+   <fact>
+    <title>Reverse Riemann Sum</title>
+    <p>
+    In this video we ask the reverse question, starting with a Reimann sum and figuring out what definite integral led to it. 
+    </p>
+
+    <video youtube="_pFI7CUO1ak" />
+ 
+ 
+  </fact>
+
+  
+</section>

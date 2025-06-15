@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Derivatives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivatives</title>
+
+  <introduction>
+    <p> In this chapter we will cover one of the foundational concepts in calculus: derivatives. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-derivative-point.ptx" />
+  <xi:include href="sec-derivative-rules.ptx" />
+  <xi:include href="sec-derivative-trig.ptx" />
+  <xi:include href="sec-derivative-chain.ptx" />
+  <xi:include href="sec-derivative-implicit.ptx" />
+  <xi:include href="sec-derivative-log.ptx" />
+  <xi:include href="sec-derivative-mean.ptx" />
+
+  
+
+</chapter>

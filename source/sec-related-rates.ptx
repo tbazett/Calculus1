@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-related-rates" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Related Rates</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Interpret a word problem as a relationship between different rates of change.</li>
+      <li>Apply differentiation rules to relate the rates of change of different variables.</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Related Rates</title>
+    <p> In this video we'll see how to set up a relationship between different quantities, and then use differentiation rules to compute rates of change.
+     </p>
+
+    <video youtube="mIZQDkrUGNk" />
+ 
+  
+  </fact>
+
+  
+  
+</section>

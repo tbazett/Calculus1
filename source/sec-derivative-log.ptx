@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-derivative-log" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivatives and Logarithms</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      <li>Compute the derivative of <m>\ln(x)</m></li>
+      <li> Apply the method of Logarithmic Differentiation</li>
+
+    </ol>
+  </paragraphs>
+
+  <fact>
+    <title>Derivative of ln(x)</title>
+    <p>
+     In this video we use implicit differentiation to compute the derivative of <m>\ln(x)</m>, defined as the inverse to the exponential function <m>e^x</m>. </p>
+    <video youtube="8BKPXfEywA0" />
+  </fact>
+
+  <fact>
+    <title>Logarithmic Differentiation</title>
+    <p>
+    We can leverage the rules of logarithms to simplify the computation of many derivatives, in particular ones of the form <m>f(x)^{g(x)}</m></p>
+    <video youtube="Kc7_uuS3A9A" />
+ 
+    <paragraphs>
+    <title>Post-video reflection</title>
+    <p>
+    In the above video we saw the original expression <m>x^{\sin(x)}</m> appear in the answer. If you start with <m>f(x)^{g(x)}</m> do you think that <m>f(x)^{g(x)}</m> will always appear in the derivative when using logarithmic differentiation? </p>
+    </paragraphs>
+  </fact>
+
+  
+</section>

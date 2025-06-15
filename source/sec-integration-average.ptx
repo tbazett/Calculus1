@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-integration-average" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Average Value</title>
+
+  <paragraphs>
+    <title>Module Learning Objectives</title>
+    <ol>
+      
+    <li>Compute the average value of a function over an interval</li>
+
+    </ol>
+  </paragraphs>
+
+  
+
+
+  <fact>
+    <title>Average Value</title>
+    <p>
+    We can use integration to compute the average value for a function.</p>
+
+    <video youtube="Nv6EOmNQYSo" />
+  </fact>
+
+  
+
+  
+</section>
